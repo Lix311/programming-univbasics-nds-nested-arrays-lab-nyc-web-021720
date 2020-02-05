@@ -55,7 +55,7 @@ def sorted_matrix
 ]]
 
 
-puts storage_room.sort 
+puts storage_room[0]
 
 end
 
