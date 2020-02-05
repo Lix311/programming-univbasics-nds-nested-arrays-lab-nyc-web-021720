@@ -54,7 +54,7 @@ def sorted_matrix
   "Asparagus"
 ]]
 
-storage_room.sort()
+storage_room[0].sort()
 puts storage_room
 
 end
